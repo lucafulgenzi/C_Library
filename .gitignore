@@ -1,0 +1,13 @@
+/cmake-build-debug
+*.txt
+
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+.DS_Store
+Thumbs.db
