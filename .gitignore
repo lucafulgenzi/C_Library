@@ -1,13 +1,9 @@
 /cmake-build-debug
-*.txt
+/CMakeLists.txt
 
 /.idea
-.project
-.classpath
-.c9/
-*.launch
-.settings/
-*.sublime-workspace
+
+*/*.out
 
 .DS_Store
 Thumbs.db
