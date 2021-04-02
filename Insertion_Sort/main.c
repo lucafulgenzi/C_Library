@@ -1,10 +1,9 @@
 #include <stdio.h>
-#include <math.h>
 
 #define LENGHT 10
 
-void print_array(int*, int);
 void insertionSort(int [], int);
+void print_array(int*, int);
 
 int main(){
     int array[LENGHT] = { 4, 3, 54, 12, 65, 6, 11, 83, 23, 56};
@@ -14,9 +13,6 @@ int main(){
 
     return 0;
 }
-
-
-
 
 void print_array(int *array, int n){
     for (int i = 0; i < n; ++i)
