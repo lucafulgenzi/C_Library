@@ -3,3 +3,4 @@
 ### Sorting Algorithms
 - Insertion Sort
 - Bubble Sort
+- Merge Sort
