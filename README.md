@@ -18,6 +18,6 @@
   - Iterative
   - Optimized iterative
   - Recursive
-- Hatevill  
+- Hateville  
   - Iterative
   - Recursive
