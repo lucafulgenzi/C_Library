@@ -30,7 +30,7 @@ int domino(int n){
 int optDomino(int n){
   int DP = 1;
   int DP1 = 1;
-  int DP2 = 10\;
+  int DP2 = 1;
 
   for (int i = 2; i <= n ; ++i) {
     DP = DP1;
