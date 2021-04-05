@@ -12,3 +12,9 @@
     - In-Order
     - Post-Order
     - Height
+  
+### Dynamic Programming
+- Domino
+  - Iterative
+  - Optimized iterative
+  - Recursive
